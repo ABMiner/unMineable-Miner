@@ -6,7 +6,7 @@
 <li>Step 4 -  enter worker name</li>
 <li>Step 5 -  enter your wallet address</li>
 <li>Step 6 -  miner starts mining🚀 </li>
-<li></>
+<li>If anti-virus flagged miner as virus whitelist it</>
   
 # Ex:  
 ```batch
