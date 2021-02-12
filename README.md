@@ -1,18 +1,23 @@
 # unMineable-Miner
 # How to use :
-<li>Step 1 -  Download unMineable ABMiner From Releases</li>
+<li>Step 1 -  Download unMineable ABMiner From Release</li>
 <li>Step 2 -  Double click the downloaded mining software</li>
 <li>Step 3 -  Type server number or type 0 and let the miner to decide the best server</li>
 <li>Step 4 -  enter worker name</li>
-<li>Step 5 -  enter your wallet address</li>
-<li>Step 6 -  miner starts mining🚀 </li>
-<li>If anti-virus flagged miner as virus whitelist it</>
+<li>Step 5 -  type coin name</li>
+<li>Step 6 -  enter your wallet address</li>
+<li>Step 7 -  miner starts mining🚀</li>
+<li>If anti-virus flagged miner as virus whitelist it 👍</>
   
 # Ex:  
 ```batch
 Type Server No.(0 to 7): 0
 
 YOUR WORKER NAME: rig
+
+COIN NAME TO MINE: 0
+or
+COIN NAME TO MINE: AAVE
 
 YOUR WALLET ADDRESS:0x0123456789
 
