@@ -28,13 +28,13 @@ YOUR WALLET ADDRESS:0x0123456789
 | server number  |
 | ------------ |
 |`0`-`ethash.unmineable.com:3333`-default server|
-|`1`-`ethash.unmineable.com:3333`-default alternative port|
+|`1`-`ethash.unmineable.com:13333`-default alternative port|
 |`2`-`us-ethash.unmineable.com:3333`-us port|
-|`3`-`us-ethash.unmineable.com:3333`-us alternative port|
+|`3`-`us-ethash.unmineable.com:13333`-us alternative port|
 |`4`-`eu-ethash.unmineable.com:3333`-eu port|
-|`5`-`eu-ethash.unmineable.com:3333`-eu alternative port|
+|`5`-`eu-ethash.unmineable.com:13333`-eu alternative port|
 |`6`-`asia-ethash.unmineable.com:3333`-asia port| 
-|`7`-`asia-ethash.unmineable.com:3333`-asia alternative port|
+|`7`-`asia-ethash.unmineable.com:13333`-asia alternative port|
 
 ## unMineable-Miner for 4GB GPUs👉 [Release 5.4c](https://github.com/ABMiner/unMineable-Miner/releases/tag/5.4c)
 
@@ -42,6 +42,6 @@ YOUR WALLET ADDRESS:0x0123456789
 |server number|
 |------------|
 |`0`-`etchash.unmineable.com:3333`- default server|
-|`1`-`etchash.unmineable.com:3333`- default alternative port|
+|`1`-`etchash.unmineable.com:13333`- default alternative port|
 
 Happy ❤️ Mining!
