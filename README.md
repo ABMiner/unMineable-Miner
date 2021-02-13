@@ -45,3 +45,7 @@ YOUR WALLET ADDRESS:0x0123456789
 |`1`-`etchash.unmineable.com:13333`- default alternative port|
 
 Happy ❤️ Mining!
+
+How to Images:
+<li></li>
+<img src="https://github.com/ABMiner/unMineable-Miner/blob/main/files/step_1.PNG?raw=true" /></a></p><img src="https://github.com/ABMiner/unMineable-Miner/blob/main/files/step_2.PNG?raw=true" /></a></p><img src="https://github.com/ABMiner/unMineable-Miner/blob/main/files/step_3.PNG?raw=true" /></a></p><img src="https://github.com/ABMiner/unMineable-Miner/blob/main/files/setp_4.PNG?raw=true" /></a></p>
